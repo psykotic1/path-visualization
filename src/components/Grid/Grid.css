@@ -1,0 +1,20 @@
+.node_row {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  width: 100%;
+}
+.grid {
+  align-items: center;
+  margin: 20px auto;
+  height: 100%;
+  width: 100%;
+}
+#weightCursor {
+  cursor: url(../../assets/weight.png), auto;
+}
+#bombCursor {
+  cursor: url(../../assets/bomb.png), auto;
+}

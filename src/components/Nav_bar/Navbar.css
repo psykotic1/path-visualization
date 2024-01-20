@@ -1,0 +1,61 @@
+.img {
+  display: inline-block;
+  width: 150px;
+  margin-left: 1rem;
+  margin-bottom: 10px;
+}
+.navb {
+  border-bottom: 1px solid #e5e5e5;
+  flex-wrap: wrap;
+  margin-bottom: 1rem;
+}
+.symbols {
+  display: inline-block;
+  margin-left: 50px;
+}
+.btn {
+  margin: 5px;
+  padding: 10px;
+  border-radius: 5px;
+  font-size: 15px;
+  font-weight: bold;
+}
+.go {
+  background-color: #2fdf84;
+}
+.stop {
+  background-color: red;
+}
+h1 {
+  display: inline-block;
+  margin: 10px;
+  margin-left: 0;
+  font-size: 16px;
+  font-weight: italic;
+}
+
+.icon {
+  display: inline-block;
+  margin: 1px;
+}
+
+.wall {
+  background-color: black;
+  border: 1px solid black;
+  height: 5px;
+}
+.visited {
+  background-color: #40cee3;
+  border: 1px solid #40cee3;
+  height: 5px;
+}
+.unvisited {
+  background-color: #white;
+  border: 1px solid #2fdf84;
+  height: 5px;
+}
+.path {
+  background-color: yellow;
+  border: 1px solid yellow;
+  height: 5px;
+}
